@@ -16,7 +16,7 @@ struct Options {
     /// Virtual size of the binary to fetch
     virtual_size: isize,
 
-    /// File name is taken from <NAME> if not provided.
+    /// Directory to output binary to.
     #[arg(short, long)]
     output: Option<PathBuf>,
 }
