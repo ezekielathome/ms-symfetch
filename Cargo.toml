@@ -2,6 +2,8 @@
 name = "ms-symfetch"
 version = "0.1.0"
 edition = "2021"
+description = "commandline utility to fetch binaries from Microsoft's symbol server"
+repository = "https://github.com/ezekielathome/ms-symfetch"
 authors = ["ezekiel <ezekiel@arcadian.garden>"]
 license = "Apache-2.0 OR MIT"
 
