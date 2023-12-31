@@ -1,6 +1,6 @@
 [package]
 name = "ms-symfetch"
-version = "0.1.3"
+version = "0.1.4"
 edition = "2021"
 description = "commandline utility to fetch binaries from Microsoft's symbol server"
 repository = "https://github.com/kusabana/ms-symfetch"
